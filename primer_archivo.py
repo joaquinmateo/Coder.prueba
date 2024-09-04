@@ -8,7 +8,8 @@
 #git checkout (nombre de la rama)
 #git branch -l , de ésta manera vemos las ramas existentes
 #git branch -D (nombre de la rama) , para borrar la rama
-#
+#git merge (nombre de la rama) , para ya incorporar la rama al código
+#si al hacer git log --oneline tomo uno de los commits y despues git checkout (commit copiado) puedo viajar a ese punto
 print('Hola Mundo')
 
 print('Adios Mundo Cruel')
